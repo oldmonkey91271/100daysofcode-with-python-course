@@ -14,18 +14,18 @@ Have a play with your own lists, dicts and tuples in the Python shell and famili
 Feel free to watch the *What we learned* video as well as a recap!
 
 
-## Day N+1: PyBites CodeChalleng.es Bite
+## Day N+1: Pybites exercise
 
-Click this link: [https://codechalleng.es/bites/promo/datastructures](https://codechalleng.es/bites/promo/datastructures)
+This will take you to our [Pybites Platform and do this Bite: [Query a nested data structure](https://pybitesplatform.com/bites/query-a-nested-data-structure/)
 
-This will take you to our CodeChalleng.es platform and give unlock a Bite for free.
-
-Follow the instructions on page once you've redeemed the Bite and see if you can solve the problem!
+Follow the on page instructions once you've redeemed the Bite and see if you can solve the problem!
 
 
 ## Day N+2: Your Turn!
 
-Create a script that imports the US States data structures contained in the following script file in our Repo: [https://github.com/talkpython/100daysofcode-with-python-course/blob/master/days/07-09-data-structures/code/data.py](https://github.com/talkpython/100daysofcode-with-python-course/blob/master/days/07-09-data-structures/code/data.py) 
+**UPDATE: We decided to wrap the below (and a little more) into a Bite on our Pybites Platform for you. You're still more than welcome to perform the work as per the instructions below, but if you want to try this in a Bite then [try it here](https://pybitesplatform.com/bites/playing-with-lists-and-dicts/) to redeem the Bite for free.
+
+Create a script that imports the US States data structures contained in the following script file in our Repo: [https://github.com/talkpython/100daysofcode-with-python-course/blob/master/days/07-09-data-structures/code/data.py](https://github.com/talkpython/100daysofcode-with-python-course/blob/master/days/07-09-data-structures/code/data.py)
 
 Perform the following tasks on the list and dict. The less you look at them, the better this exercise will be. Remember: **Dicts are unsorted**.
 
@@ -35,12 +35,10 @@ Perform the following tasks on the list and dict. The less you look at them, the
 
 - Print out the 27th value in the dictionary.
 
-- Replace the 15th key in the dictionary with the 28th item in the list.
-
 
 ### Time to share what you've accomplished!
 
-Be sure to share your last couple of days work on Twitter or Facebook. Use the hashtag **#100DaysOfCode**. 
+Be sure to share your last couple of days work on Twitter or Facebook. Use the hashtag **#100DaysOfCode**.
 
 Here are [some examples](https://twitter.com/search?q=%23100DaysOfCode) to inspire you. Consider including [@talkpython](https://twitter.com/talkpython) and [@pybites](https://twitter.com/pybites) in your tweets.
 
